@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Trauma Helper</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="chooseCategory">Choisissez une catégorie pour jouer :</string>
+    <string name="title_activity_photo">C\'est quoi ?</string>
+    <string name="title_activity_settings">Paramètres</string>
+</resources>
